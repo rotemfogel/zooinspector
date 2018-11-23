@@ -11,9 +11,9 @@ An improved zookeeper inspector
 - Support read-only mode for node data viewer
 
 Build
-- $git clone https://github.com/zzhang5/zooinspector.git
-- $cd zooinspector/
-- $mvn clean package
+- $ git clone https://github.com/rotemfogel/zooinspector.git
+- $ cd zooinspector/
+- $ mvn clean package
 
 Run
 - $chmod +x target/zooinspector-pkg/bin/zooinspector.sh
